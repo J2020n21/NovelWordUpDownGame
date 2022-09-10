@@ -1,2 +1,2 @@
 # py_project
-Making open-source software by Python during 2022 Sep ~ Dec
+Making an **open-source software using Python** during 2022 Sep ~ Dec
